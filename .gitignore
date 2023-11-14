@@ -87,6 +87,7 @@ celerybeat-schedule
 .venv
 gmsh-venv/
 ENV/
+gmsh-env/
 
 # Spyder project settings
 .spyderproject
